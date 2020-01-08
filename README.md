@@ -1,6 +1,6 @@
 # Ambulance-Bill
 
-- esx_ambulancejob\client\job.lua code 
+`` esx_ambulancejob\client\job.lua code ``
 ## Bill
 ```
 {label = _U('billing'),   value = 'billing'},
@@ -32,7 +32,7 @@ end, function(data, menu)
 end)
 ```
 
-- esx_ambulancejob\locales\en.lua
+`` esx_ambulancejob\locales\en.lua ``
 ## Bill
 ```
   ['billing'] = '帳單',
